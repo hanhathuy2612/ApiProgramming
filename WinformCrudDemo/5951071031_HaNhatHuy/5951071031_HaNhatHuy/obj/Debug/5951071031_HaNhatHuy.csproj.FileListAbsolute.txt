@@ -1,0 +1,10 @@
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\bin\Debug\5951071031_HaNhatHuy.exe.config
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\bin\Debug\5951071031_HaNhatHuy.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\bin\Debug\5951071031_HaNhatHuy.pdb
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\obj\Debug\5951071031_HaNhatHuy.csprojAssemblyReference.cache
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\obj\Debug\_5951071031_HaNhatHuy.Form1.resources
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\obj\Debug\_5951071031_HaNhatHuy.Properties.Resources.resources
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\obj\Debug\5951071031_HaNhatHuy.csproj.GenerateResource.cache
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\obj\Debug\5951071031_HaNhatHuy.csproj.CoreCompileInputs.cache
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\obj\Debug\5951071031_HaNhatHuy.exe
+D:\CÁC MÔN TRÊN TRƯỜNG\Kỳ 6\Lập trình API\Projects\LapTringAPI\WinformCrudDemo\5951071031_HaNhatHuy\5951071031_HaNhatHuy\obj\Debug\5951071031_HaNhatHuy.pdb
